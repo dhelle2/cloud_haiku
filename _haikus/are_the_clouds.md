@@ -3,7 +3,7 @@ layout: haiku
 title: are the clouds
 author: dhe
 ---
-well those clouds are made <br>
-with some kinds of computers <br>
+well that cloud is made <br>
+from some kind of computers <br>
 not really up there <br>
 ```
